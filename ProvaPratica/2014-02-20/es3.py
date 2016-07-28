@@ -12,8 +12,7 @@ dest=sys.argv[2]
 src=sys.argv[1]
 
 
-
-
+#è da provare ma non mi va
 
 for root, subdir, files in os.walk(src):
     for filename in files:
