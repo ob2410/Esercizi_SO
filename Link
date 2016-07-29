@@ -1,1 +1,6 @@
 http://stackoverflow.com/questions/279729/how-to-wait-untill-all-child-processes-called-by-fork-complete
+
+
+una cosa per poll e pipe 
+
+http://www.linux-mag.com/id/357/
